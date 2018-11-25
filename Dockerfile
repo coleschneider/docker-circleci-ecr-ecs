@@ -1,9 +1,8 @@
 
 # Pull base image from stock node image.
-FROM node:8.4
+FROM node:10.9.0
 
-# Maintainer
-MAINTAINER Rick Baker <rick@ricktbaker.com>
+
 
 
 # Make app directory
